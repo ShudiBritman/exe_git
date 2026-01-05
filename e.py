@@ -1,2 +1,1 @@
-xdf= "fgfbgtsbt"
-print(xdf)
+x = "Hello World"
